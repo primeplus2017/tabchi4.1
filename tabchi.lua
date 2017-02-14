@@ -248,7 +248,7 @@ function process(msg)
           }, dl_cb, nil)
         else
           local text = [[
-*Tabchi by @GetAndroid -- Normal stats  :*
+*Tabchi -- Normal stats  :*
 Users : ]] .. pvs .. [[
 
 Groups : ]] .. gps .. [[
